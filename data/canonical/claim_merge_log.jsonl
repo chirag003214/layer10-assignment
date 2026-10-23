@@ -1,0 +1,55 @@
+{"canonical_claim_id": "cc_b277971d", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#32288/c/3956022196", "ardupilot/ardupilot#32081"], "evidence_count": 2}
+{"canonical_claim_id": "cc_71218968", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#32178/c/3919220323", "ardupilot/ardupilot#31878", "ardupilot/ardupilot#31615", "ardupilot/ardupilot#31266"], "evidence_count": 4}
+{"canonical_claim_id": "cc_21f88621", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#32172", "ardupilot/ardupilot#32087/c/3843347446", "ardupilot/ardupilot#31937", "ardupilot/ardupilot#31761/c/3939563761", "ardupilot/ardupilot#31402/c/3465851472", "ardupilot/ardupilot#31397/c/3467513442"], "evidence_count": 6}
+{"canonical_claim_id": "cc_88482f90", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#32172", "ardupilot/ardupilot#32154"], "evidence_count": 3}
+{"canonical_claim_id": "cc_d068a282", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#32172", "ardupilot/ardupilot#31761/c/3939567822", "ardupilot/ardupilot#31614/c/3845747904", "ardupilot/ardupilot#31614/c/3850180701", "ardupilot/ardupilot#31402/c/3465851472", "ardupilot/ardupilot#31386/c/3684736992"], "evidence_count": 6}
+{"canonical_claim_id": "cc_503b7fe1", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#32143/c/3867133683", "ardupilot/ardupilot#32091/c/3852521312", "ardupilot/ardupilot#32090/c/3848638295", "ardupilot/ardupilot#31995/c/3853108770", "ardupilot/ardupilot#31801/c/3693942096", "ardupilot/ardupilot#31801/c/3751522782", "ardupilot/ardupilot#31508/c/3529891990", "ardupilot/ardupilot#31411", "ardupilot/ardupilot#31385/c/3478506279"], "evidence_count": 10}
+{"canonical_claim_id": "cc_81fe234f", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#32121/c/3862851866", "ardupilot/ardupilot#32087/c/3843347446"], "evidence_count": 2}
+{"canonical_claim_id": "cc_c0780293", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#32120", "ardupilot/ardupilot#31266"], "evidence_count": 2}
+{"canonical_claim_id": "cc_705a6169", "predicate": "has_parameter", "merged_doc_ids": ["ardupilot/ardupilot#32091", "ardupilot/ardupilot#32091"], "evidence_count": 2}
+{"canonical_claim_id": "cc_d8e81e56", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#32091", "ardupilot/ardupilot#32091/c/3852521312", "ardupilot/ardupilot#32056/c/3826621880", "ardupilot/ardupilot#31614"], "evidence_count": 4}
+{"canonical_claim_id": "cc_cdb60b12", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#32091/c/3852521312", "ardupilot/ardupilot#31798/c/3694876814"], "evidence_count": 2}
+{"canonical_claim_id": "cc_877851d2", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#32091/c/3852521312", "ardupilot/ardupilot#31950"], "evidence_count": 2}
+{"canonical_claim_id": "cc_87fcaeff", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#32087", "ardupilot/ardupilot#31234"], "evidence_count": 2}
+{"canonical_claim_id": "cc_15ee3dc5", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#32081", "ardupilot/ardupilot#31763", "ardupilot/ardupilot#31763/c/3679372205"], "evidence_count": 4}
+{"canonical_claim_id": "cc_b90fe24b", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#32056/c/3826621880", "ardupilot/ardupilot#31798/c/3694876814", "ardupilot/ardupilot#31798/c/3694919543"], "evidence_count": 3}
+{"canonical_claim_id": "cc_cb86469c", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#32054", "ardupilot/ardupilot#31234"], "evidence_count": 3}
+{"canonical_claim_id": "cc_28592f4c", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#32054", "ardupilot/ardupilot#32054/c/3828373276"], "evidence_count": 2}
+{"canonical_claim_id": "cc_6c4871a0", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#32047/c/3828376767", "ardupilot/ardupilot#32047/c/3832734834"], "evidence_count": 2}
+{"canonical_claim_id": "cc_fd2562e7", "predicate": "has_parameter", "merged_doc_ids": ["ardupilot/ardupilot#32002/c/3792436396", "ardupilot/ardupilot#32002/c/3800711317"], "evidence_count": 4}
+{"canonical_claim_id": "cc_0bcfb3b0", "predicate": "has_parameter", "merged_doc_ids": ["ardupilot/ardupilot#32002/c/3792436396", "ardupilot/ardupilot#32002/c/3800711317"], "evidence_count": 4}
+{"canonical_claim_id": "cc_9c3e9b53", "predicate": "has_parameter", "merged_doc_ids": ["ardupilot/ardupilot#32002/c/3792436396", "ardupilot/ardupilot#32002/c/3800711317"], "evidence_count": 2}
+{"canonical_claim_id": "cc_954ec27a", "predicate": "has_parameter", "merged_doc_ids": ["ardupilot/ardupilot#32002/c/3792436396", "ardupilot/ardupilot#32002/c/3800711317"], "evidence_count": 2}
+{"canonical_claim_id": "cc_2373f792", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#31995/c/3853108770", "ardupilot/ardupilot#31465"], "evidence_count": 3}
+{"canonical_claim_id": "cc_443af315", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#31989", "ardupilot/ardupilot#31402/c/3465851472"], "evidence_count": 2}
+{"canonical_claim_id": "cc_7266cbba", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#31948", "ardupilot/ardupilot#31572"], "evidence_count": 3}
+{"canonical_claim_id": "cc_0067c9dd", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#31940", "ardupilot/ardupilot#31787/c/3691216511", "ardupilot/ardupilot#31767", "ardupilot/ardupilot#31494"], "evidence_count": 4}
+{"canonical_claim_id": "cc_26f718e6", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#31937/c/3897090996", "ardupilot/ardupilot#31748/c/3696191434", "ardupilot/ardupilot#31614", "ardupilot/ardupilot#31614/c/3844657204", "ardupilot/ardupilot#31614/c/3851198410"], "evidence_count": 5}
+{"canonical_claim_id": "cc_a934262a", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#31923", "ardupilot/ardupilot#31404", "ardupilot/ardupilot#31286"], "evidence_count": 4}
+{"canonical_claim_id": "cc_1fc2c451", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#31903", "ardupilot/ardupilot#31637/c/3634559669"], "evidence_count": 2}
+{"canonical_claim_id": "cc_a2b2a001", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#31903", "ardupilot/ardupilot#31761/c/3939747805"], "evidence_count": 2}
+{"canonical_claim_id": "cc_b521cb4d", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#31877/c/3760343969", "ardupilot/ardupilot#31486/c/3516315401", "ardupilot/ardupilot#31484", "ardupilot/ardupilot#31287/c/3407218590", "ardupilot/ardupilot#31212"], "evidence_count": 5}
+{"canonical_claim_id": "cc_b4912f99", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#31852/c/3717635955", "ardupilot/ardupilot#31852/c/3839992180"], "evidence_count": 2}
+{"canonical_claim_id": "cc_7b54e338", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#31852/c/3848141250", "ardupilot/ardupilot#31397/c/3467693999"], "evidence_count": 2}
+{"canonical_claim_id": "cc_be327e10", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#31761/c/3939567822", "ardupilot/ardupilot#31585"], "evidence_count": 3}
+{"canonical_claim_id": "cc_31750134", "predicate": "has_parameter", "merged_doc_ids": ["ardupilot/ardupilot#31748/c/3678496082", "ardupilot/ardupilot#31614/c/3851198410"], "evidence_count": 2}
+{"canonical_claim_id": "cc_0bc4b5ef", "predicate": "has_parameter", "merged_doc_ids": ["ardupilot/ardupilot#31748/c/3678496082", "ardupilot/ardupilot#31748/c/3680110937"], "evidence_count": 2}
+{"canonical_claim_id": "cc_b888ce74", "predicate": "has_parameter", "merged_doc_ids": ["ardupilot/ardupilot#31748/c/3696191434", "ardupilot/ardupilot#31614/c/3844657204"], "evidence_count": 2}
+{"canonical_claim_id": "cc_36c0ee4b", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#31719", "ardupilot/ardupilot#31719/c/3652736598"], "evidence_count": 2}
+{"canonical_claim_id": "cc_2f3682cc", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#31637", "ardupilot/ardupilot#31546", "ardupilot/ardupilot#31508"], "evidence_count": 3}
+{"canonical_claim_id": "cc_cb78eef6", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#31614/c/3844657204", "ardupilot/ardupilot#31614/c/3851198410"], "evidence_count": 2}
+{"canonical_claim_id": "cc_d466cd34", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#31559/c/3640724121", "ardupilot/ardupilot#31464"], "evidence_count": 4}
+{"canonical_claim_id": "cc_733b09c2", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#31535", "ardupilot/ardupilot#31535/c/3551875527"], "evidence_count": 2}
+{"canonical_claim_id": "cc_b43351e1", "predicate": "regressed_in", "merged_doc_ids": ["ardupilot/ardupilot#31484", "ardupilot/ardupilot#31484/c/3513566358"], "evidence_count": 2}
+{"canonical_claim_id": "cc_7862af8b", "predicate": "has_parameter", "merged_doc_ids": ["ardupilot/ardupilot#31484", "ardupilot/ardupilot#31484/c/3513566358"], "evidence_count": 2}
+{"canonical_claim_id": "cc_06f32539", "predicate": "has_parameter", "merged_doc_ids": ["ardupilot/ardupilot#31484", "ardupilot/ardupilot#31484/c/3513566358"], "evidence_count": 3}
+{"canonical_claim_id": "cc_b5bb66d9", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#31385/c/3478506279", "ardupilot/ardupilot#31212"], "evidence_count": 2}
+{"canonical_claim_id": "cc_4d493162", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#31353/c/3434517261", "ardupilot/ardupilot#31353/c/3435416722"], "evidence_count": 2}
+{"canonical_claim_id": "cc_faad62ec", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#31287", "ardupilot/ardupilot#31287/c/3408849848"], "evidence_count": 2}
+{"canonical_claim_id": "cc_d0905bc5", "predicate": "affects", "merged_doc_ids": ["ardupilot/ardupilot#31248", "ardupilot/ardupilot#31248/c/3420662434"], "evidence_count": 2}
+{"canonical_claim_id": "cc_f3dc9a22", "predicate": "causes", "merged_doc_ids": ["ardupilot/ardupilot#31801/c/3752919103", "ardupilot/ardupilot#31801/c/3757484009"], "evidence_count": 6}
+{"canonical_claim_id": "cc_8e6e84cc", "predicate": "causes", "merged_doc_ids": ["ardupilot/ardupilot#31397/c/3467423638", "ardupilot/ardupilot#31397/c/3467513442"], "evidence_count": 2}
+{"canonical_claim_id": "cc_c65c6971", "predicate": "causes", "merged_doc_ids": ["ardupilot/ardupilot#31397/c/3467664222", "ardupilot/ardupilot#31397/c/3467693999"], "evidence_count": 2}
+{"canonical_claim_id": "cc_a099a608", "predicate": "causes", "merged_doc_ids": ["ardupilot/ardupilot#31397/c/3467664222", "ardupilot/ardupilot#31397/c/3467693999"], "evidence_count": 2}
+{"canonical_claim_id": "cc_871a091a", "predicate": "regressed_in", "merged_doc_ids": ["ardupilot/ardupilot#31353", "ardupilot/ardupilot#31194/c/3351568187"], "evidence_count": 3}
+{"canonical_claim_id": "cc_6400af4d", "predicate": "causes", "merged_doc_ids": ["ardupilot/ardupilot#31196", "ardupilot/ardupilot#31196/c/3393429716"], "evidence_count": 2}

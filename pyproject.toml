@@ -1,0 +1,5 @@
+[tool.pytest.ini_options]
+markers = [
+    "integration: tests that make real LLM API calls (need LLM_API_KEY)",
+    "no_llm: integration-style tests that are fully deterministic and need no API key",
+]
